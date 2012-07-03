@@ -37,3 +37,5 @@ information.
 The authors of AsciiDoc.
 
 Current Maintainer: Marco Villegas (marvil07)
+
+// vim: set syntax=asciidoc
