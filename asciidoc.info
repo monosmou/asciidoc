@@ -1,6 +1,0 @@
-name = AsciiDoc filter
-description = Filter for AsciiDoc syntax.
-core = 7.x
-
-files[] = asciidoc.install
-files[] = asciidoc.module
