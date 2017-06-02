@@ -2,3 +2,7 @@ name: AsciiDoc filter
 description: Filter for AsciiDoc syntax.
 type: module
 core: 8.x
+
+configure: 'filter.admin_overview'
+dependencies:
+  - 'filter'
